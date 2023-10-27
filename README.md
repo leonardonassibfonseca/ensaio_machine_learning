@@ -105,7 +105,7 @@ dados.
 
 ### Sobre os dados de treinamento
 
-![ensaio_regressao_dados_validacao](img/ensaio_classificacao_dados_treinamento.png)
+![classificacao treinamento](img/ensaio_classificacao_dados_treinamento.png)
 
 ### Sobre os dados de validação
 
