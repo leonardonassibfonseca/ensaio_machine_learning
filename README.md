@@ -105,33 +105,33 @@ dados.
 
 ### Sobre os dados de treinamento
 
-![classificacao treinamento](img/ensaio_classificacao_dados_treinamento.png)
+![classificacao treinamento](img/ensaio_classificacao_dados_treinamento.PNG)
 
 ### Sobre os dados de validação
 
-![classificacao_validacao](img/ensaio_classificacao_dados_validacao.png)
+![classificacao_validacao](img/ensaio_classificacao_dados_validacao.PNG)
 
 ### Sobre os dados de teste
 
-![classificacao_teste]( img/ensaio_classificacao_dados_teste.png)
+![classificacao_teste]( img/ensaio_classificacao_dados_teste.PNG)
 
 ## Ensaio de regressão:
 
 ### Sobre os dados de treinamento
 
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
+![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.PNG)
 
 ### Sobre os dados de validação
 
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
+![regressao_validacao]( img/ensaio_regressao_dados_validacao.PNG)
 
 ### Sobre os dados de teste
 
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+![regressao_teste]( img/ensaio_regressao_dados_teste.PNG)
 
 ## Ensaio de clusterização:
 
-![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
+![clusterizacao_treinamento]( img/ensaio_clusterizacao.PNG)
 
 # Conclusão
 
